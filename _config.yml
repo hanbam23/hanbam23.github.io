@@ -1,0 +1,7 @@
+# Name of the site
+name: Blog
+
+# Short description
+description: It's a blog
+
+theme: minima
